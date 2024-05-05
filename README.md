@@ -1,16 +1,16 @@
 ## Welcome to my GitHub profile ✨
 
 - 🤓 I am a software developer, currently working as frontend.
-- 📜 I have a degree in computer engineering.
+- 📜 I hold a degree in computer engineering.
 - 👄 I’m currently working at [Sol Beauty And Care][sbc_url].
 - 🎨 Some of my interest are:
-  - 🎹 Playing piano.
   - 🟥 Solving Rubik's Cube[.](https://www.worldcubeassociation.org/persons/2016GALE06)
-  - 🎮 Playing videogames.
   - 🎵 Listening to music[.](https://www.last.fm/user/PauLokis)
+  - 🎮 Playing videogames.
+  - 🎹 Playing piano.
 - 💻 In terms of development my interests are:
-  - 🖌️ Frontend.
   - 🤖 Embedded systems
+  - 🖌️ Frontend.
   - 🖥️ Desktop apps.
 - 📩 How you can reach me:
 
