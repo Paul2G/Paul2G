@@ -48,7 +48,7 @@
 ![Dotnet][dotnet_badge]
 ![Python][python_badge]
 ![C++][c++_badge]
-![C#][c#_badge]
+![C#][c#_badge] \
 ![GitHub Actions][github-actions_badge]
 ![Jenkins][jenkins_badge]
 ![AWS][aws_badge]
