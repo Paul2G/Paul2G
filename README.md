@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Gmail][gmail_badge]
+[![Gmail][gmail_badge]][gmail_url]
 [![Linkedin][linkedin_badge]][linkedin_url]
 
 </div>
@@ -55,6 +55,7 @@
 
 [sbc_url]: https://solbeautyandcare.com/
 [linkedin_url]: https://www.linkedin.com/in/paul2g/
+[gmail_url]: mailto:pggaleana@gmail.com
 
 [js_badge]: https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E
 [ts_badge]: https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white
